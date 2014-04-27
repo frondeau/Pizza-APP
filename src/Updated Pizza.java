@@ -1,5 +1,5 @@
 /**
- * Changed Pizza Constructor, Random number generator method for Order numbers.
+ * Changed Pizza Constructor, and also changed Random number generator method for Order numbers.
  * Added partialPrice variable to pizza class.  calculate total now changes
  * partialPrice to the price and the pizza object order will contain its own price.
  */
